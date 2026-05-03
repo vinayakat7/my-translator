@@ -1,10 +1,8 @@
 import streamlit as st
-import speech_recognition as sr
 import io
 import base64
 import time
 import os
-import tempfile
 from gtts import gTTS
 from deep_translator import GoogleTranslator
 
